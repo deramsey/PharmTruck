@@ -1,7 +1,7 @@
 # PharmTruck Design Doc
 
 ## Survey Results
-1. How old are you? ** M: 50%; F 50% **
+1. How old are you? ** 18-25: 25%; 26-35: 35%, 36 - 45: 35%; 46 and Older: 5% **
 2. What is your gender? ** M: 50%; F 50% **
 3. What is your ethnicity? ** All demos represented equally **
 4. What is your annual income? ** $80,000 - $100,000: 15%;  $60,000 - $79,000: 45%; $40,000 - $59,000: 15%; Below $39,000: 25% **
